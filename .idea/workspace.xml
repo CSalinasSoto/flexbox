@@ -32,10 +32,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/flexbox2/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.86720324">
+            <state vertical-scroll-proportion="-5.525641">
               <caret line="41" column="38" selection-start-line="41" selection-start-column="38" selection-end-line="41" selection-end-column="38" />
               <folding>
                 <element signature="n#style#0;n#a#0;n#li#0;n#ul#0;n#aside#1;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -43,6 +43,16 @@
                 <element signature="n#style#0;n#a#0;n#li#2;n#ul#0;n#aside#1;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#a#0;n#li#3;n#ul#0;n#aside#1;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/flexbox2/README.md">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.19160584">
+              <caret line="7" column="90" selection-start-line="7" selection-start-column="90" selection-end-line="7" selection-end-column="90" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -97,6 +107,7 @@
         <option value="$PROJECT_DIR$/flexbox3/index.html" />
         <option value="$PROJECT_DIR$/flexbox2/style.css" />
         <option value="$PROJECT_DIR$/flexbox2/index.html" />
+        <option value="$PROJECT_DIR$/flexbox2/README.md" />
       </list>
     </option>
   </component>
@@ -551,7 +562,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/flexbox2/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.86720324">
+        <state vertical-scroll-proportion="-5.525641">
           <caret line="41" column="38" selection-start-line="41" selection-start-column="38" selection-end-line="41" selection-end-column="38" />
           <folding>
             <element signature="n#style#0;n#a#0;n#li#0;n#ul#0;n#aside#1;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -559,6 +570,14 @@
             <element signature="n#style#0;n#a#0;n#li#2;n#ul#0;n#aside#1;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#a#0;n#li#3;n#ul#0;n#aside#1;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/flexbox2/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.19160584">
+          <caret line="7" column="90" selection-start-line="7" selection-start-column="90" selection-end-line="7" selection-end-column="90" />
+          <folding />
         </state>
       </provider>
     </entry>

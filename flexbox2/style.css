@@ -29,8 +29,29 @@ article
 {
     padding: 1em;
 }
-.flex{
-    /*display: flex;*/
+
+.InputAddOn {
+    display: flex;
+    margin-bottom: 10px;
+}
+
+.InputAddOn-item {
+    background-color: orange;
+    color: black;
+    font: lighter;
+}
+
+.InputAddOn-item {
+    border: 1px solid rgba(147, 128, 108, 0.25);
+    padding: 0.5em 0.75em;
+}
+
+.InputAddOn-item:first-child {
+    border-radius: 2px 0 0 2px;
+}
+
+.InputAddOn-item:last-child {
+    border-radius: 0 2px 2px 0;
 }
 
 footer
